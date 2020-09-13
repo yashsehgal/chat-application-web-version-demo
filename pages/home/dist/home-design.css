@@ -1,0 +1,79 @@
+* {
+  margin: 0;
+  background-color: black;
+}
+
+#header-container {
+  background-color: black;
+  padding: 2em;
+}
+
+#logo-text {
+  font-family: "Montserrat";
+  padding: 1em;
+  font-size: 20px;
+  text-decoration: none;
+  color: white;
+}
+
+#login-option {
+  float: right;
+  color: black;
+  text-decoration: none;
+  padding-left: 2em;
+  padding-right: 2em;
+  background-color: white;
+  padding: 10px;
+  width: 50px;
+  border-color: none;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  text-align: center;
+}
+
+#signup-option {
+  float: right;
+  color: white;
+  text-decoration: none;
+  padding-left: 2em;
+  padding-right: 2em;
+  background-color: #003cff;
+  text-align: center;
+  width: 60px;
+  border-color: none;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  padding: 10px;
+}
+
+#contact-option {
+  float: right;
+  color: white;
+  text-decoration: none;
+  padding-left: 2em;
+  padding-right: 2em;
+}
+
+#learn-more-option {
+  float: right;
+  color: white;
+  text-decoration: none;
+  padding-left: 2em;
+  padding-right: 2em;
+}
+
+#title-text {
+  color: white;
+  text-decoration: none;
+  font-family: "Open Sans";
+  font-size: 60px;
+}
+
+#landing-page-main-container {
+  padding: 4em;
+  padding-left: 5em;
+}
